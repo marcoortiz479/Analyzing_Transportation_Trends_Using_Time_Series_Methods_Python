@@ -1,6 +1,11 @@
-# Time Series Analysis for Transportation
+# Analyzing Transportation Trends Using Time Series Methods
 
 This project applies time series analysis to transportation-related data using Python. The primary objective is to explore trends, seasonality, and forecasting in flight activity and fuel prices. The project uses real-world datasets and common time series techniques to develop actionable insights.
+
+## 📚 Table of Contents
+- [Project Structure](#project-structure)
+- [Tools & Libraries](#tools--libraries)
+- [Key Topics Covered](#key-topics-covered)
 
 ## 📂 Project Structure
 
