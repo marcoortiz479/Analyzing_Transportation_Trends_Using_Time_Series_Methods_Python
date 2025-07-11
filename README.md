@@ -1,1 +1,24 @@
-# Time-Series-Analysis-for-Transportation-Python-
+# Time Series Analysis for Transportation
+
+This project applies time series analysis to transportation-related data using Python. The primary objective is to explore trends, seasonality, and forecasting in flight activity and fuel prices. The project uses real-world datasets and common time series techniques to develop actionable insights.
+
+## 📂 Project Structure
+
+- `notebook.ipynb` — Main Jupyter Notebook with all analysis steps.
+- `fuel_prices_2101.csv` — Dataset with historical fuel prices.
+- `team_flights.csv` — Dataset containing flight data (team-specific).
+- `CONFIG.JSON` — Configuration file for controlling aspects of the workflow.
+
+## 🔧 Tools & Libraries
+
+- **Python**: Main programming language used in this project
+- **Pandas**: Data manipulation and cleaning
+- **Matplotlib**: Data visualization
+- **Statsmodels**: Time series modeling (ARIMA, decomposition)
+
+## 🔍 Key Topics Covered
+
+- Time series visualization and rolling averages
+- Decomposition into trend, seasonality, and residuals
+- Forecasting models (e.g., ARIMA)
+- Interpretation of transportation data insights
