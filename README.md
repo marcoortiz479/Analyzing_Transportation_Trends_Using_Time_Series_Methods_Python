@@ -20,6 +20,7 @@ Cleaned and modeled 10+ years of monthly transportation data in Python using pan
 - **Pandas**: Data manipulation and cleaning
 - **Matplotlib**: Data visualization
 - **Statsmodels**: Time series modeling (ARIMA, decomposition)
+- **NumPy**: Numerical computations and array manipulation
 
 ## 🔍 Key Topics Covered
 
