@@ -1,4 +1,4 @@
-# Analyzing Transportation Trends Using Time Series Methods | Python (January 2025 - July 2025)
+# Analyzing Transportation Trends Using Time Series Methods
 
 Cleaned and modeled 10+ years of monthly transportation data in Python using pandas, statsmodels, and ARIMA techniques. Forecasted post-COVID recovery trends and visualized seasonal patterns and confidence intervals using matplotlib.
 
